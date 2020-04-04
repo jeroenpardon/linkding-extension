@@ -8,5 +8,5 @@ A simple extension for Chromium based browsers (tested on Google Chrome and Micr
 * Clone [this repository](https://github.com/jeroenpardon/linkding-extension) or extract the [zip package](https://github.com/jeroenpardon/linkding-extension/archive/master.zip) to a location of your choice
 * Replace `example.com` with your domain in bookmarklet.js
 * Enter `chrome://extensions/` or `edge://extensions/` into the adress field of your browser
-* Choose "Load unpacked"
+* Choose "Load unpacked". If you don't see this option, you need to switch on "developer mode" first.
 * The extension should pop up in your browser's toolbar
