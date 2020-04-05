@@ -12,4 +12,5 @@ Linkding provides a bookmarklet by default when you install it. I put this exten
 * Replace `example.com` with your domain in bookmarklet.js
 * Enter `chrome://extensions/` or `edge://extensions/` into the adress field of your browser
 * Choose "Load unpacked". If you don't see this option, you need to switch on "developer mode" first.
+* Select the extension's location
 * The extension should pop up in your browser's toolbar
