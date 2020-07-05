@@ -12,10 +12,8 @@
      "48": "icon-48.png",
      "128": "icon-128.png" },
  "permissions": [
-     "tabs",
-     "http://*/*",
-     "https://*/*"
+     "activeTab"
  ],
- "version": "0.1",
+ "version": "0.2",
  "manifest_version": 2
 }
